@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BhojanaPriya</string>
+    <string name="title_activity_add_food_page">addFoodPage</string>
+    <string name="title_activity_view_orders_page">viewOrdersPage</string>
+    <string name="tab">\u0009</string>
+</resources>
