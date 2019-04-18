@@ -5,4 +5,4 @@ This was done as a part of 'Introduction to Mobile Application Development' cour
 
 Only main files are included in this.
 
-![alt text](https://github.com/KeerthanBhat/BhojanaPriya/blob/master/screenshots/Screenshot_20190418-162415.png)
+![alt text](https://github.com/KeerthanBhat/BhojanaPriya/blob/master/screenshots/Screenshot_20190418-162318.png)
